@@ -1,0 +1,25 @@
+.centered{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.centered1{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.brr{
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+.brr1{
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.brr2{
+    border: white 1px solid;
+    background-color: rgb(190, 255, 188);;
+    border-radius: 15px;
+}
+
